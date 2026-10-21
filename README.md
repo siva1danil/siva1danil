@@ -16,5 +16,5 @@
 ### » Other
 
 \[[repo](https://github.com/siva1danil/anatgram)\] anatgram  
-\[[repo](https://github.com/siva1danil/edserver2)\] edserver2
+\[[repo](https://github.com/siva1danil/edserver2)\] edserver2  
 \[[repo](https://github.com/siva1danil/G-Force-FPS-Unlock)\] G-Force-FPS-Unlock  
